@@ -1,23 +1,23 @@
-# KHAN
-Facebook old id clone
+# Bishwas
+Facebook old id clone by bishwas
 
-🐸apt update
+apt update
 
-🐸apt upgrade
+apt upgrade
 
-🐸pkg install python
+pkg install python
 
-🐸pkg install python2
+pkg install python2
 
-🐸pkg install git 
+pkg install git 
 
-🐸pip2 install requests
+pip2 install requests
 
-🐸pip2 install mechanize 
+pip2 install mechanize 
 
 
-🐸git clone https://github.com/TAHIDUL-123/KHAN
+git clone https://github.com/bishwas-321/KHAN
 
-🐸cd KHAN
+cd Bishwas 
 
-🐸python KHAN.py
+python bishwas.py
