@@ -16,7 +16,7 @@ pip2 install requests
 pip2 install mechanize 
 
 
-git clone https://github.com/bishwas-321/KHAN
+git clone https://github.com/bishwas321/KHAN/edit/main/README.md
 
 cd Bishwas 
 
